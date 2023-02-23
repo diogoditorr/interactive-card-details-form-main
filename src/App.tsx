@@ -6,7 +6,7 @@ export function App() {
             (MM/YY) MM YY CVC e.g. 123 Confirm
             {/* <!-- Completed state start --> */}
             Thank you! We&apos;ve added your card details Continue
-            <div className="attribution">
+            <div className="attribution bg-red-500">
                 Challenge by
                 <a
                     href="https://www.frontendmentor.io?ref=challenge"
